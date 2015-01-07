@@ -1,0 +1,4 @@
+@html
+  @head
+    @("title".tag){Ben's Blog}
+  @body
