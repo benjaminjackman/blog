@@ -1,4 +1,8 @@
+@import scalatags.Text.all._
+
 @html
   @head
-    @("title".tag){Ben's Blog}
+    @scalatags.Text.tags2.title{Ben's Blog}
   @body
+    @div
+      I am in a div
